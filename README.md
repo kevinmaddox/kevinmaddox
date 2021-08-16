@@ -1,4 +1,4 @@
-I'm a Georgia-based software developer. I like writing useful and/or fun software. Code readability/accessibility is an important topic for me and is something I'm constantly trying to consider and improve.
+I'm a US-Georgia-based software developer. I like writing useful and/or fun software. Code readability/accessibility is an important topic for me and is something I'm constantly trying to consider and improve.
 
 <!--
 **kevinmaddox/kevinmaddox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
